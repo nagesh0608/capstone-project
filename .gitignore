@@ -1,0 +1,7 @@
+*.csv
+*.zip
+*.mp4
+*.exe
+data/
+datasets/
+.ipynb_checkpoints/
